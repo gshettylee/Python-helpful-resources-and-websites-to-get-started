@@ -1,6 +1,6 @@
-# Python-helpful-resources-and-websites-to-get-started
+# Python helpful resources and websites to get started
 
-### Table-of-Contents
+### Table of Contents
    * [Python websites to start learning the basics](#Python-websites)
    * [Python Practice websites](#Python-Practice)
    * [Python You Tube Channel](#Python-You-Tube)
