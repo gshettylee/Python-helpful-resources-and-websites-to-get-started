@@ -6,6 +6,7 @@
    * [Python You Tube Channel](#Python-You-Tube)
    * [Python Framework](#framework)
    * [Python IDE](#ide)
+   * [Python Readers Platform](#blog)
 
 
 ### <a name="Python-websites"></a>Python websites to start learning the basics
@@ -38,6 +39,14 @@
   - VScode   ***
   - Sublime
   - Atom
+
+### <a name="blogs"/> Python Readers Platform
+    - Medium
+    - Hashnode
+
+The three stars`***` above indicates Highly Recommended 
+
+## Connect with me
+   Hi! I am Greeshma Shetty, A self-taught Software Engineer. I code to help junior software engineers and engineers with non-coding background to get started with software engineering. You can connect with me at [Linkedin](#https://www.linkedin.com/in/greeshma-shetty-a88287a9/)
    
-   
-Rating `***` Highly Recommended 
+
