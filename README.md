@@ -1,29 +1,28 @@
 # Python-helpful-resources-and-websites-to-get-started
 
-
 ### Table-of-Contents
-   - Python websites to start learning the basic
-   - Python Practice websites
-   - Python You Tube Channel
-   - Python Framework
-   - Python IDE
+   * [Python websites to start learning the basics](#Python-websites)
+   * [Python Practice websites](#Python-Practice)
+   * [Python You Tube Channel](#Python-You-Tube)
+   * [Python Framework](#framework)
+   * [Python IDE](#ide)
 
 
-### Python websites to start learning the basic
-   - Codecademy  ***
-   - GeeksforGeeks  ***
-   - Learn Python.org
-   - Programiz  ***
-   - Real Python
-   - Hackr.io
+### <a name="Python-websites"></a>Python websites to start learning the basics
+   * Codecademy  ***
+   * GeeksforGeeks  ***
+   * Learn Python.org
+   * Programiz  ***
+   * Real Python
+   * Hackr.io
    
-###  Python Practice websites
+###  <a name="Python-Practice"></a>Python Practice websites
    - HackeRank  ***
    - LeetCode   ***
    - PluralSight
    - CoderByte
 
-### Python You Tube Channel
+### <a name="Python-You-Tube"></a>Python You Tube Channel
    - Amulyas Academy  ***
    - Corey Schafer    ***
    - Telusko          ***
@@ -31,11 +30,11 @@
    - freecodecamp
    - Traversy Media
 
-### Python Framework
+### <a name="framework"></a>Python Framework
    - Django
    - Flask
 
-### Python IDE
+### <a name="ide"></a>Python IDE
   - VScode   ***
   - Sublime
   - Atom
