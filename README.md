@@ -13,7 +13,7 @@
    - Codecademy  ***
    - GeeksforGeeks  ***
    - Learn Python.org
-   - Programiz  **
+   - Programiz  ***
    - Real Python
    - Hackr.io
    
@@ -41,4 +41,4 @@
   - Atom
    
    
-Rating `***` Highly Recommended and i have use
+Rating `***` Highly Recommended 
