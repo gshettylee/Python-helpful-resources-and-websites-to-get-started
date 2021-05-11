@@ -21,6 +21,7 @@
    - HackeRank  ***
    - LeetCode   ***
    - PluralSight
+   - Coding Bat
    - CoderByte
 
 ### <a name="Python-You-Tube"></a>Python You Tube Channel
